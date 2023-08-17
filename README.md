@@ -27,7 +27,7 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Yash+Kumar+Kumawat;4th+year+B.tech+Computer+Science+Student;Cybersecurity+Researcher+;Bug+Hunter+;CTF+Player)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Yash+Kumar+Kumawat;4th+year+B.tech+Computer+Science+Student;Cybersecurity+Researcher+;Bug+Hunter+;CTF+Player" alt="Typing SVG" /></a>
 
 ###
 
